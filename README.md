@@ -7,8 +7,8 @@ This project is a comprehensive dashboard built to visualize and analyze flight 
 
 Main issues examined:
 
-	Overall Flight Performance 
-	Reasons for Delays
-	Delay Patterns Over Time
-	Airport-Level Insights
-	Airline Performance
+- Overall Flight Performance
+- Reasons for Delays
+- Delay Patterns Over Time
+- Airport-Level Insights
+- Airline Performance
